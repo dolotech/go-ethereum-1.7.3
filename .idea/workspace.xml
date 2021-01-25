@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142315d0-a299-41c3-aec8-17eeeee990b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="c:\go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1nY1Q9z0a1HPadmo3cfmJMGqbuP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/github.com/ethereum/go-ethereum/cmd/geth" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go-ethereum-1.7.3" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-ethereum-1.7.3" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-ldflags &quot;-s -w&quot;" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/src/github.com/ethereum/go-ethereum/cmd/geth" />
+      <output_directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611556072235">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state x="468" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/78.0.1970.1152@78.0.1970.1152" timestamp="1611556072235" />
+    <state x="783" y="220" key="#go-ethereum-1.7.3" timestamp="1611552279315">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state x="783" y="220" key="#go-ethereum-1.7.3/78.0.1970.1152@78.0.1970.1152" timestamp="1611552279315" />
+    <state x="845" y="332" key="FileChooserDialogImpl" timestamp="1611552277931">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state x="845" y="332" key="FileChooserDialogImpl/78.0.1970.1152@78.0.1970.1152" timestamp="1611552277931" />
+    <state width="1949" height="452" key="GridCell.Tab.0.bottom" timestamp="1611552314956">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state width="1949" height="452" key="GridCell.Tab.0.bottom/78.0.1970.1152@78.0.1970.1152" timestamp="1611552314956" />
+    <state width="1949" height="452" key="GridCell.Tab.0.center" timestamp="1611552314956">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state width="1949" height="452" key="GridCell.Tab.0.center/78.0.1970.1152@78.0.1970.1152" timestamp="1611552314956" />
+    <state width="1949" height="452" key="GridCell.Tab.0.left" timestamp="1611552314955">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state width="1949" height="452" key="GridCell.Tab.0.left/78.0.1970.1152@78.0.1970.1152" timestamp="1611552314955" />
+    <state width="1949" height="452" key="GridCell.Tab.0.right" timestamp="1611552314956">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state width="1949" height="452" key="GridCell.Tab.0.right/78.0.1970.1152@78.0.1970.1152" timestamp="1611552314956" />
+    <state x="565" y="219" key="SettingsEditor" timestamp="1611552213648">
+      <screen x="78" y="0" width="1970" height="1152" />
+    </state>
+    <state x="565" y="219" key="SettingsEditor/78.0.1970.1152@78.0.1970.1152" timestamp="1611552213648" />
+  </component>
+</project>
